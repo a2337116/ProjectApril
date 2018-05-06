@@ -1,10 +1,13 @@
-﻿生成启动时间为 2018/5/5 15:48:31。
-     1>项目“C:\Users\CubeZ91\Documents\Visual Studio 2015\Projects\OpenSSL\openssl_test\openssl_test\openssl_test.vcxproj”在节点 2 上(Build 个目标)。
-     1>Link:
-         D:\Program Files\VS_2015\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\CubeZ91\Documents\Visual Studio 2015\Projects\OpenSSL\openssl_test\x64\Debug\openssl_test.exe" /INCREMENTAL /NOLOGO libcrypto.lib libssl.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"C:\Users\CubeZ91\Documents\Visual Studio 2015\Projects\OpenSSL\openssl_test\x64\Debug\openssl_test.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\CubeZ91\Documents\Visual Studio 2015\Projects\OpenSSL\openssl_test\x64\Debug\openssl_test.lib" /MACHINE:X64 x64\Debug\01.openssl_test.obj
-         openssl_test.vcxproj -> C:\Users\CubeZ91\Documents\Visual Studio 2015\Projects\OpenSSL\openssl_test\x64\Debug\openssl_test.exe
-     1>已完成生成项目“C:\Users\CubeZ91\Documents\Visual Studio 2015\Projects\OpenSSL\openssl_test\openssl_test\openssl_test.vcxproj”(Build 个目标)的操作。
+﻿生成启动时间为 2018/5/6 10:40:31。
+     1>项目“E:\GitHome\openssl_test\openssl_test\openssl_test.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\Program Files\VS_2015\VC\bin\x86_amd64\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"x64\Debug\\" /Fd"x64\Debug\vc140.pdb" /Gd /TP /errorReport:prompt 01.openssl_test.cpp
+         01.openssl_test.cpp
+       Link:
+         D:\Program Files\VS_2015\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"E:\GitHome\openssl_test\x64\Debug\openssl_test.exe" /INCREMENTAL /NOLOGO libcrypto.lib libssl.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"E:\GitHome\openssl_test\x64\Debug\openssl_test.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\GitHome\openssl_test\x64\Debug\openssl_test.lib" /MACHINE:X64 x64\Debug\01.openssl_test.obj
+         openssl_test.vcxproj -> E:\GitHome\openssl_test\x64\Debug\openssl_test.exe
+     1>已完成生成项目“E:\GitHome\openssl_test\openssl_test\openssl_test.vcxproj”(Build 个目标)的操作。
 
 已成功生成。
 
-已用时间 00:00:00.60
+已用时间 00:00:01.81
